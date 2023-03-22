@@ -1,6 +1,11 @@
 # google_map
 
-A new Flutter project.
+all you have to do collect your api keys from 
+https://console.cloud.google.com/
+
+go to AndoridManifest.xml    
+andorid/app/src/main/AndoridManifest.xml
+Paste your keys under AndoridManifest.xml
 
 ## Getting Started
 
